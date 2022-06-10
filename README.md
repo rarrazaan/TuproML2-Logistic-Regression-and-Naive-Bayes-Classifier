@@ -1,2 +1,2 @@
 # TuproML1-kMeans-Clustering
-In this assignment we need to build a kMenas Clustering model that will cluster a car datasets into k cluster.
+This assignment needs us to compare two different classifiers and build the models from scratch without using any library like sklearn.
